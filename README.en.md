@@ -39,7 +39,7 @@ Now you can choose the version you want (e.g., .NET 10):
 # Check available versions
 asdf list-all dotnet
 
-# Install the latest version (example: 8.0.103)
+# Install the latest version (example: 10.0.103)
 asdf install dotnet 10.0.103
 
 # Set that version as the global default
